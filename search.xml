@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>HTML 教程（持续更新）</title>
-    <url>./2020/07/12/HTML%E5%9F%BA%E7%A1%80%EF%BC%88%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%EF%BC%89/</url>
+    <url>/2020/07/12/HTML%E5%9F%BA%E7%A1%80%EF%BC%88%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%EF%BC%89/</url>
     <content><![CDATA[<h1 id="HTML"><a href="#HTML" class="headerlink" title="HTML"></a>HTML</h1><p>[========]</p>
 <h2 id="HTML-标签"><a href="#HTML-标签" class="headerlink" title="HTML 标签"></a>HTML 标签</h2><p>本章将向你展示常用的 HTML 标签<br>你几乎可以在任何网站上看到这些标签</p>
 <p>ps1：不要担心本章中您还未学习到的标签，你将在下一章节学到他们。<br>ps2：学习 HTML 的最好方法就是边学边做实验。你可以在桌面先创建一个记事本，然后将后缀改为 HTML 再用合适的软件打开（如Notepad++，Sublime Text等任何可以编辑文本的工具<strong><del>你甚至可以使用记事本</del></strong>）</p>
@@ -109,7 +109,7 @@
   </entry>
   <entry>
     <title>你好 世界！</title>
-    <url>./2020/06/27/hello-world/</url>
+    <url>/2020/06/27/hello-world/</url>
     <content><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World!"></a>Hello World!</h1><h2 id="Hello-World-1"><a href="#Hello-World-1" class="headerlink" title="Hello World!"></a>Hello World!</h2><h3 id="Hello-World-2"><a href="#Hello-World-2" class="headerlink" title="Hello World!"></a>Hello World!</h3><h4 id="Hello-World-3"><a href="#Hello-World-3" class="headerlink" title="Hello World!"></a>Hello World!</h4><h5 id="Hello-World-4"><a href="#Hello-World-4" class="headerlink" title="Hello World!"></a>Hello World!</h5><h6 id="Hello-World-5"><a href="#Hello-World-5" class="headerlink" title="Hello World!"></a>Hello World!</h6><ul>
 <li>Hello World!</li>
 <li>Hello World!</li>
@@ -159,7 +159,7 @@
   </entry>
   <entry>
     <title>名言警句（持续更新）</title>
-    <url>./2016/10/12/%E5%90%8D%E8%A8%80%E8%AD%A6%E5%8F%A5%EF%BC%88%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%EF%BC%89/</url>
+    <url>/2016/10/12/%E5%90%8D%E8%A8%80%E8%AD%A6%E5%8F%A5%EF%BC%88%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%EF%BC%89/</url>
     <content><![CDATA[<h1 id="名言警句"><a href="#名言警句" class="headerlink" title="名言警句"></a>名言警句</h1><h2 id="这边会持续更新嗷0-0"><a href="#这边会持续更新嗷0-0" class="headerlink" title="这边会持续更新嗷0.0"></a>这边会持续更新嗷0.0</h2><h2 id="自己积累的"><a href="#自己积累的" class="headerlink" title="自己积累的"></a>自己积累的</h2><hr>
 <ul>
 <li><p>别再去想失去的东西了，失去了就是失去了，好好看看还留下了什么吧！——甚平</p>
@@ -321,7 +321,7 @@
   </entry>
   <entry>
     <title>游戏日记（持续更新）</title>
-    <url>./2020/08/02/%E6%B8%B8%E6%88%8F%E6%97%A5%E8%AE%B0/</url>
+    <url>/2020/08/02/%E6%B8%B8%E6%88%8F%E6%97%A5%E8%AE%B0/</url>
     <content><![CDATA[<h1 id="游戏日记"><a href="#游戏日记" class="headerlink" title="游戏日记"></a>游戏日记</h1><hr>
 <p>在这里我会写一些我自己玩游戏的趣事和对游戏的评价<br>算是打发打发时间并且装个游戏通关的杯</p>
 <hr>
@@ -385,7 +385,7 @@
   </entry>
   <entry>
     <title>谷歌账号注册</title>
-    <url>./2020/07/04/%E8%B0%B7%E6%AD%8C%E4%BB%A3%E8%B4%A6%E5%8F%B7%E6%B3%A8%E5%86%8C/</url>
+    <url>/2020/07/04/%E8%B0%B7%E6%AD%8C%E4%BB%A3%E8%B4%A6%E5%8F%B7%E6%B3%A8%E5%86%8C/</url>
     <content><![CDATA[<h1 id="谷歌账号代注册"><a href="#谷歌账号代注册" class="headerlink" title="谷歌账号代注册"></a>谷歌账号代注册</h1><hr>
 <h2 id="引入"><a href="#引入" class="headerlink" title="引入"></a>引入</h2><p>因为某些特殊原因，注册谷歌账号在国内异常困难，<br>导致在玩游戏或其他原因需要用到谷歌账号时，<br>常常会因为没有谷歌账号而烦恼<br>自己去注册一个又不是那么容易，会遇到收不到手机验证码等障碍</p>
 <hr>
