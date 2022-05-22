@@ -10,6 +10,13 @@
 
  所以突发奇想开始了这一项目。
 
+---------
+当下之中国已非昨日之中国
+当下之先锋队也已满目疮痍
+青年唯有深入群众开启民智
+方能携手共进打倒修正主义
+ 2022/5/50留
+
 ## 这是个怎样的项目
 
  不怎么样，打发时间，什么都有可能放上来（😊）
@@ -21,9 +28,9 @@
  可以加我微信或者QQ（加的时候请注明一下，不然我不知道可能就拒绝了😁）
  
  
- | 微信  | [Teemohandsome](https://teemofanfan.github.io/img/QR-WeChat.png "Teemohandsome")  |
+ | 微信  | [Teemohandsome](https://fanfancb.gitee.io/img/QR-WeChat.png "VentiCN")  |
 | :------------: | :------------: |
-| QQ  | [3152626835](https://teemofanfan.github.io/img/QR-QQ.png "3152626835")  |
+| QQ  | [3152626835](https://fanfancb.gitee.io/img/QR-QQ.png "3152626835")  |
 
 ------------
 
